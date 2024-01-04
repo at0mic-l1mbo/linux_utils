@@ -1,4 +1,4 @@
-<h1 align="center">🐧<br>Linux Utils</h1> linux_utils: A Rust-based CLI toolkit offering service management, process listing, and port inspection functionalities for Linux systems
+<h1 align="center">🐧<br>Linux Utils</h1> A robust Rust CLI toolkit tailored for Linux, offering versatile functionality encompassing service control, process examination, and network port analysis. Designed for efficiency, it streamlines system management tasks seamlessly, empowering users with a unified suite of tools.
 <br></br>
 
 --- 
